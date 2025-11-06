@@ -40,11 +40,21 @@ Here are some ideas to get you started:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=grisf1n&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-
-
-
-
 ---
 [![](https://visitcount.itsvg.in/api?id=grisf1n&icon=0&color=13)](https://visitcount.itsvg.in)
+
+<div align="center">
+  <a href="https://open.spotify.com/user/hah">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=hah&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+</div>
+
+###
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
