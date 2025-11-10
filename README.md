@@ -43,18 +43,14 @@ Here are some ideas to get you started:
 ---
 [![](https://visitcount.itsvg.in/api?id=grisf1n&icon=0&color=13)](https://visitcount.itsvg.in)
 
-<div align="center">
-  <a href="https://open.spotify.com/user/hah">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=hah&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
 
 ###
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🎵 Currently Listening
+
+<div align="center">
+  <a href="https://open.spotify.com/user/username_anda">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=hah&count=5" alt="Spotify recently played" />
+  </a>
+</div>
