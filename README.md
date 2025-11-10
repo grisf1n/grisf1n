@@ -49,8 +49,4 @@ Here are some ideas to get you started:
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ## 🎵 Currently Listening
 
-<div align="center">
-  <a href="https://open.spotify.com/user/username_anda">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=hah&count=5" alt="Spotify recently played" />
-  </a>
-</div>
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/hah)
